@@ -1,2 +1,2 @@
 # ImersaoDados_Alura
-Aqui voce encontra meus notebooks construidos na imersão dados Alura
+Serão adicioandos os notebooks criados na resolução dos desafios da imersão da Alura
